@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "608116226807",
+    "firebase_url": "https://flash-chat-5a5cc.firebaseio.com",
+    "project_id": "flash-chat-5a5cc",
+    "storage_bucket": "flash-chat-5a5cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608116226807:android:c621dd6a3d3b2071",
+        "android_client_info": {
+          "package_name": "co.rickyafk.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608116226807-908qvi4rdgt76p1lhhgd01jtpmlas05a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHL5eHeVvqKijKxVgAbJqdg6NJEv4ejwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608116226807-908qvi4rdgt76p1lhhgd01jtpmlas05a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
